@@ -1,0 +1,9 @@
+A bunch of different input jacks and pins connected together.
+All go to a DPDT input bypass switch which enables or disables the input buffer.
+Signal from all inputs (buffered or not) goes to a two Banana SEND jacks towards circuit.
+
+Output from circuit goes to two Banana RETURN jacks.
+Return jacks go to DPDT output switch which enables or disables output buffer.
+Output from buffer goes to a bunch of different output jacks.
+
+Can't decide whether to make dual or single supply buffers, or both.
